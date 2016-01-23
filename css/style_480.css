@@ -1,0 +1,38 @@
+#bg{
+width:90%;
+}
+
+#header{
+//height:100px;
+width:calc(90% - 10px);
+}
+
+#header #title{
+font-size:12px;
+margin:0 5px 0 5px;
+}
+
+#header #text{font-size:10px;}
+
+#header #logo img{
+height:80px;
+width:160px;
+}
+
+#header #menus li{
+width:40px;
+margin:2px;
+//margin-top:0px;
+}
+
+#header #menus li a{
+padding:2px 2px;
+height:20px;
+font-size:12px;
+}
+
+#content{font-size:10px;}
+
+table.posts td.postts{white-space:normal;}
+
+table.adminTable td,th{font-size:8px;}
